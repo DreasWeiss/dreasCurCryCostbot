@@ -1,0 +1,19 @@
+{
+  "name": "dreascurcrycostbot",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreasWeiss/dreasCurCryCostbot.git"
+  },
+  "author": "dreas weiss <dreasweiss@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DreasWeiss/dreasCurCryCostbot/issues"
+  },
+  "homepage": "https://github.com/DreasWeiss/dreasCurCryCostbot#readme"
+}
