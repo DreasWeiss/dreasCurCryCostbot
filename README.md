@@ -10,6 +10,6 @@ Description
 
 tech
 - NodeJs 
-- Telegraf Framework 
+- Telegraf Framework
 - AXIOS 
 - bank API
